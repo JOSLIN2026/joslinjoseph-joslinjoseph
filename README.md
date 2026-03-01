@@ -1,7 +1,7 @@
 <!-- RED ANIMATED HEADER -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Joslin+Joseph;Electronics+%26+Robotics+Engineer;Embedded+Systems+Developer;Building+Real+World+Hardware" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Joslin+Joseph;Electrical+%26+Electronics+Engineer;Embedded+Systems+Developer;Building+Real+World+Hardware" />
 </p>
 
 ---
