@@ -9,7 +9,7 @@
 <h3 align="center">🚀 Electrical & Electronics Engineering Student</h3>
 
 <p align="center">
-🔬 Embedded Systems • 🤖 Robotics • 🌾 Smart Agriculture • ⚡ Hardware Innovator
+🔬 Embedded Systems • 🤖 Iot • 🌾 Smart Agriculture • ⚡ Hardware Innovator
 </p>
 
 ---
