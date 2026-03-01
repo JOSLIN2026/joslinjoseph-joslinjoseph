@@ -16,17 +16,6 @@
 
 ## 🔥 Featured Projects
 
-### 🤖 AC Duct Cleaning Rover
-
-Autonomous rover designed for HVAC duct inspection and cleaning.
-
-* Embedded control system
-* Motor navigation
-* Remote monitoring
-* Mechanical + Electronics integration
-
----
-
 ### 🌾 SMART Trap — AI Pest Monitoring System
 
 Low-cost intelligent agricultural monitoring system.
@@ -52,6 +41,11 @@ Low-cost intelligent agricultural monitoring system.
 
 ![Python](https://img.shields.io/badge/Python-red?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-red?style=for-the-badge\&logo=c\&logoColor=white)
+![Html](https://img.shields.io/badge/Html-red?style=for-the-badge\&logo=Html\&logoColor=white)
+![Css](https://img.shields.io/badge/Css-red?style=for-the-badge\&logo=Css\&logoColor=white)
+![Js](https://img.shields.io/badge/Js-red?style=for-the-badge\&logo=Js\&logoColor=white)
+
+
 
 ---
 
