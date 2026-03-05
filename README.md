@@ -12,20 +12,6 @@
 🔬 Embedded Systems • 🤖 Iot • 🌾 Smart Agriculture • ⚡ Hardware Innovator
 </p>
 
----
-
-## 🔥 Featured Projects
-
-### 🌾 SMART Trap — AI Pest Monitoring System
-
-Low-cost intelligent agricultural monitoring system.
-
-* Pest population detection
-* Environmental sensing
-* Early infestation alerts
-* Scalable smart surveillance nodes
-
----
 
 ## 🛠 Tech Stack
 
